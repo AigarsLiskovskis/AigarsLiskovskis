@@ -19,9 +19,9 @@ Contact me on <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.sv
 ---
  My latest projects I am working on:
  
- - <a href="https://github.com/AigarsLiskovskis/FriendsApp.git">FriendsApp</a> Simple social network application.
- - <a href="https://github.com/AigarsLiskovskis/StockAPI.git">StockAPI</a> Stock information using the API.
- - <a href="https://github.com/AigarsLiskovskis/RegisterLogin.git">RegisterLogin</a> Registration and login application.
+ - <a href="https://github.com/AigarsLiskovskis/BookingApp.git">FriendsApp</a> Simple social network application.
+ - <a href="https://github.com/AigarsLiskovskis/FriendsApp.git">StockAPI</a> Stock information using the API.
+ - <a href="https://github.com/AigarsLiskovskis/StockAPI.git">RegisterLogin</a> Registration and login application.
 ---
 
 
