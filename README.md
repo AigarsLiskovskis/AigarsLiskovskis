@@ -19,9 +19,9 @@ Contact me on <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.sv
 ---
  My latest projects I am working on:
  
- - <a href="https://github.com/AigarsLiskovskis/BookingApp.git">BookingApp</a> Simple social network application.
- - <a href="https://github.com/AigarsLiskovskis/FriendsApp.git">FriendsApp</a> Stock information using the API.
- - <a href="https://github.com/AigarsLiskovskis/StockAPI.git">StockApi</a> Registration and login application.
+ - <a href="https://github.com/AigarsLiskovskis/DatingSite">DatingSite</a> Looking for date? Check out this app!
+ - <a href="https://github.com/AigarsLiskovskis/BookingApp.git">BookingApp</a> App to book a place to stay.
+ - <a href="https://github.com/AigarsLiskovskis/StockAPI.git">StockApi</a> Newest stock information.
 ---
 
 
